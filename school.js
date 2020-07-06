@@ -18,3 +18,5 @@ for( let i = 0 ; i <partTimeInstructors.length; i++) {
 for( let i = 0 ; i <fullTimeInstructors.length; i++) {
     console.log(fullTimeInstructors[i])
 }
+
+
